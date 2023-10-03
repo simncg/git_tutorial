@@ -69,7 +69,7 @@
      ```
 
 
-     
+
 
 6. **Push Your Local Repository to GitHub:**
 
@@ -122,7 +122,7 @@
 
 2. **Switching Between Branches** (`git checkout`):
    ```bash
-   git checkout main
+   git checkout master
    ```
 
 3. **Listing Branches** (`git branch`):
@@ -134,7 +134,7 @@
 4. **Merging** (`git merge`):
    - To merge changes from one branch (e.g., `feature-new`) into another (e.g., `main`), first switch to the 'receiving' branch, then merge:
      ```bash
-     git checkout main
+     git checkout master
      git merge feature-new
      ```
 
@@ -274,3 +274,7 @@ To collaborate with others, you'll push to and pull from remote repositories.
 
 
 - It often helps to discuss with other contributors to understand the context of their changes and make the best decision.
+
+
+
+* skcmskcsk
