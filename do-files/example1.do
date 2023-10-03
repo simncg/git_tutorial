@@ -30,7 +30,7 @@ if "`c(username)'" == "WB602786" { // Simon
 	global root "C:\Users\WB602786\OneDrive - WBG\NTM Project"
 } 
 else if "`c(username)'" == "wb564418" { // Devaki
-	global root ""
+	global root "C:\Users\WB602786\OneDrive - WBG\NTM Project"
 }
 
 * Globals 
